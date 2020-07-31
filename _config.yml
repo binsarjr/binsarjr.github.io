@@ -22,6 +22,7 @@ title_separator          : "-"
 subtitle                 : "Ora ngeblog Ora UwU" # site tagline that appears below site title in masthead
 name                     : "Binsar Dwi Jasuma"
 description              : "Ngeblog Skuy merupakan blog yang membahas tentang pemograman"
+keywords                 : "Ngeblog Skuy, Petani Kode, Codepolitan, Malas Ngoding"
 url                      : "https://binsarjr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "binsarjr/binsarjr" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -64,7 +65,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 'UXxh83_5sjHmjjdnrgfChm6hj3xyFqFbo3DV-jPL9Cg'
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :

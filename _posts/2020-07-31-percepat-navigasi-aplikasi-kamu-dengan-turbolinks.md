@@ -4,7 +4,9 @@ layout: single
 categories: Turbolinks
 tags: [Tutorial,Cara mempercepat navigasi]
 canonical_url: "https://yoursite.com/custom-canonical-url"
+keywords: [tutorial,cara mempercepat navigasi website, turbolinks]
 ---
+
 
 Turbolinks adalah pengoptimalan yang meningkatkan kinerja yang dipersepsikan dengan menjadi pintar dalam berpindah halaman dan memuat ulang aset di aplikasi kamu.
 Tidak seperti permintaan `GET`, turbolinks tidak memerlukan perubahan pada kode di aplikasi kamu sendiri.
