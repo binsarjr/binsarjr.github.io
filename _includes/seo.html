@@ -12,6 +12,8 @@ assign og_type = "website" -%} {%- endif -%}
 <meta name="description" content="{{ seo_description }}"> {% if author.name %}
 <meta name="author" content="{{ author.name | default: author }}"> {% endif %}
 
+<meta name="google-site-verification" content="UXxh83_5sjHmjjdnrgfChm6hj3xyFqFbo3DV-jPL9Cg" />
+
 <meta property="og:type" content="{{ og_type }}">
 <meta property="og:locale" content="{{ site.locale | replace: " - ", "_ " | default: "en_US " }}">
 <meta property="og:site_name" content="{{ site.title }}">

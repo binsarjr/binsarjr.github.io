@@ -1,5 +1,5 @@
 ---
-title: "Percepat navigasi aplikasi anda dengan Turbolinks"
+title: "Percepat navigasi aplikasi kamu dengan Turbolinks"
 layout: single
 categories: Turbolinks
 tags: [Tutorial,Cara mempercepat navigasi]
@@ -52,7 +52,7 @@ Dalam upaya untuk memperbaikinya, Turbolinks akan menampilkan progress bar (yang
 
 ## Apa selanjutnya ?
 
-1.  [Percepat navigasi aplikasi anda dengan Turbolinks ]({% post_url 2020-07-31-percepat-navigasi-aplikasi-anda-dengan-turbolinks %})
+1.  [Percepat navigasi aplikasi anda dengan Turbolinks ]({% post_url 2020-07-31-percepat-navigasi-aplikasi-kamu-dengan-turbolinks %})
 2.  Cara mengunakan turbolinks
 3.  Masalah umum yang sering ditemui ketika menggunakan turbolinks
 
