@@ -4,7 +4,15 @@ layout: single
 categories: Turbolinks
 tags: [Tutorial,Cara mempercepat navigasi]
 canonical_url: "https://yoursite.com/custom-canonical-url"
-keywords: [tutorial,cara mempercepat navigasi website, turbolinks]
+keywords: [
+  tutorial,
+  cara mempercepat navigasi website,
+  turbolinks,
+  cara meningkatkan kecepatan navigasi website,
+  cara membuat website seperti SPA,
+  tutorial turbolinks,
+  apa itu turbolinks
+  ]
 ---
 
 
