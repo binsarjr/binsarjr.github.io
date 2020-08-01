@@ -15,7 +15,7 @@ keywords: [
   ]
 ---
 
-Dalam blog ini, kami akan membagikan 4 langkah sederhana yang kamu butuhkan di aplikasi kamu untuk mempercepat navigasi dengan mengaktifkan Turbolinks. Ini akan mempercepat situs web kamu untuk merender halaman dengan cepat.
+Dalam blog ini, saya akan membagikan 4 langkah sederhana yang kamu butuhkan di aplikasi kamu untuk mempercepat navigasi dengan mengaktifkan Turbolinks. Ini akan mempercepat situs web kamu untuk merender halaman dengan cepat.
 
 # Apa itu Turbolinks ?
 Turbolinks adalah pengoptimalan yang meningkatkan kinerja yang dipersepsikan dengan menjadi pintar dalam berpindah halaman dan memuat ulang aset di aplikasi kamu.
