@@ -2,8 +2,7 @@
 title: "Percepat navigasi aplikasi kamu dengan Turbolinks"
 layout: single
 categories: Turbolinks
-tags: [Tutorial,Cara mempercepat navigasi]
-canonical_url: "https://yoursite.com/custom-canonical-url"
+tags: [Cara mempercepat navigasi website]
 keywords: [
   tutorial,
   cara mempercepat navigasi website,
@@ -16,8 +15,14 @@ keywords: [
 ---
 
 
+Turbolinks membuat navigasi di aplikasi web kamu menjadi lebih cepat. Dengan Turbolinks, aplikasi kamu akan terlihat seperti Single Page Application(SPA), yang merupakan tambahan yang bagus untuk pengalaman pengguna. Sementara pada saat yang sama, tidak perlu ada konflik dengan SEO.
+
+# Apa itu Turbolinks?
+
 Turbolinks adalah pengoptimalan yang meningkatkan kinerja yang dipersepsikan dengan menjadi pintar dalam berpindah halaman dan memuat ulang aset di aplikasi kamu.
 Tidak seperti permintaan `GET`, turbolinks tidak memerlukan perubahan pada kode di aplikasi kamu sendiri.
+
+Dan yang akan kita bahas disini ialah Turbolinks 5
 
 # Turbolinks 5
 Turbolinks 5 adalah pustaka JavaScript murni yang dapat digunakan pada halaman HTML apa pun yang menaruhnya di tag `<script>` pada halaman tersebut, atau memasukkannya ke dalam JavaScript.
