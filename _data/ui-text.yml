@@ -928,7 +928,7 @@ id: &DEFAULT_ID
   minute_read                : "Waktu baca"
   share_on_label             : "Berbagi di"
   meta_label                 :
-  tags_label                 : "Golongan:"
+  tags_label                 : "Tags:"
   categories_label           : "Kategori:"
   date_label                 : "Diupdate:"
   comments_label             : "Tinggalkan komentar"
