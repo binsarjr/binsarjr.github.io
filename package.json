@@ -57,5 +57,7 @@
         "doc": "docs",
         "test": "test"
     },
-    "dependencies": {}
+    "dependencies": {
+        "highlightjs-badge": "^0.1.8"
+    }
 }
