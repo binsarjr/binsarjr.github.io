@@ -1,0 +1,3 @@
+[submodule "iamlazy2/themes/book"]
+	path = iamlazy2/themes/book
+	url = https://github.com/alex-shpak/hugo-book
