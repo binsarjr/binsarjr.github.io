@@ -1,5 +1,5 @@
 ---
-title: "Cara Mendapatkan Link Grup Whatsapp dengan Tehnik Extrap"
+title: "Cara Mendapatkan Link Grup Whatsapp Semua Prodi Universitas Amikom Yogyakarta dengan Tehnik Extrap"
 layout: single
 categories: Extrap
 tags: [Extrap]
@@ -11,4 +11,6 @@ keywords: [
 ---
 
 
-Test
+Ssssstt....
+
+Untuk kamu yang membuka artikel ini mohon untuk tidak dibagikan kepada orang lain.
