@@ -1,16 +1,14 @@
 ---
-title: "Cara Mendapatkan Link Grup Whatsapp Semua Prodi Universitas Amikom Yogyakarta dengan Tehnik Extrap"
+title: "Cara Mendapatkan Link Grup Whatsapp Semua Prodi Universitas Amikom Yogyakarta dengan Tehnik Extrapolasi"
 layout: single
-categories: Extrap
-tags: [Extrap]
+categories: Extrapolasi
+tags: [Extrapolasi]
 keywords: [
   tutorial,
   cara mendapatkan link grup whatsapp amikom,
-  tutorial extrap
+  tutorial extrapolasi
   ]
 ---
 
 
-Ssssstt....
-
-Untuk kamu yang membuka artikel ini mohon untuk tidak dibagikan kepada orang lain.
+Nggk jadi dah.nanti malah rusuh
