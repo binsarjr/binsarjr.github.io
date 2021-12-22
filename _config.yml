@@ -146,7 +146,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - iamlazy
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
