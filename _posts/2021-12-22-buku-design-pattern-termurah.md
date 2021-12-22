@@ -24,7 +24,7 @@ Untuk mengenal lebih mendalam tentang design pattern, bagaimana kasus kasus dan 
 
 Dibandrol dengan harga 89k kalian sudah bisa memahami banyak design pattern dalam 1 sumber. Tersedia dengan studi kasus.
 
-Minat? Hub. wa.me/628xxxxx890
+Minat? Hub. [wa.me/628xxxxx890](wa.me/628xxxxx890)
 
 
 *Note: Ini hanya digunakan untuk keperluan edukasi bukan komersil. Saya mengambil sumber yg memang layak untuk dijadikan referensi yaitu https://refactoring.guru/design-patterns/book
